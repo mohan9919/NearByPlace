@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NearBy</string>
+
+    <!-- near by-->
+    <string-array name="nearby_type">
+        <item>atm</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>bus_station</item>
+        <item>cafe</item>
+        <item>doctor</item>
+        <item>gas_station</item>
+        <item>hospital</item>
+        <item>parking</item>
+        <item>police</item>
+        <item>train_station</item>
+    </string-array>
+
+    <string-array name="nearby_radious">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+        <item>5.0</item>
+        <item>6.0</item>
+        <item>7.0</item>
+        <item>8.0</item>
+        <item>9.0</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
